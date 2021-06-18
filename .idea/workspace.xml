@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bb598889-642e-4cd8-a69b-cc95d968493f" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="bb598889-642e-4cd8-a69b-cc95d968493f" name="Default Changelist" comment="mysqlbasics" />
+>>>>>>> 8582494 (mysqlbasics)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,15 @@
       <ProjectState />
     </projectState>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1tz0d6NxPrFN0SDKOMTWfa618f8" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tz0d6NxPrFN0SDKOMTWfa618f8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 8582494 (mysqlbasics)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +35,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 8582494 (mysqlbasics)
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -35,11 +51,42 @@
       <option name="presentableId" value="Default" />
       <updated>1623756695365</updated>
       <workItem from="1623756699360" duration="61000" />
+<<<<<<< HEAD
       <workItem from="1623995930198" duration="72000" />
     </task>
+=======
+      <workItem from="1623995930198" duration="386000" />
+    </task>
+    <task id="LOCAL-00001" summary="mysqlbasics">
+      <created>1623996217656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623996217656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 8582494 (mysqlbasics)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mysqlbasics" />
+    <option name="LAST_COMMIT_MESSAGE" value="mysqlbasics" />
+  </component>
+>>>>>>> 8582494 (mysqlbasics)
 </project>
